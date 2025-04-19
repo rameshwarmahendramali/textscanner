@@ -1,33 +1,30 @@
 # OCR Application Textscannr
 
-
 ## Gallery
 
 ### Image 1
-![Image 1](image1.jpeg)
+<img src="image1.jpeg" alt="Image 1" width="300" height="200" />
 
 ### Image 2
-![Image 2](image2.jpeg)
+<img src="image2.jpeg" alt="Image 2" width="300" height="200" />
 
 ### Image 3
-![Image 3](image3.jpeg)
+<img src="image3.jpeg" alt="Image 3" width="300" height="200" />
 
 ### Image 4
-![Image 4](image4.jpeg)
+<img src="image4.jpeg" alt="Image 4" width="300" height="200" />
 
 ### Image 5
-![Image 5](image5.jpeg)
+<img src="image5.jpeg" alt="Image 5" width="300" height="200" />
 
 ### Image 6
-![Image 6](image6.jpeg)
+<img src="image6.jpeg" alt="Image 6" width="300" height="200" />
 
 ### Image 7
-![Image 7](image7.jpeg)
+<img src="image7.jpeg" alt="Image 7" width="300" height="200" />
 
 ### Image 8
-![Image 8](image8.jpeg)
+<img src="image8.jpeg" alt="Image 8" width="300" height="200" />
 
 ### Image 9
-![Image 9](image9.jpeg)
-
----
+<img src="image9.jpeg" alt="Image 9" width="300" height="200" />
