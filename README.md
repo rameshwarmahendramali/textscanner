@@ -1,39 +1,33 @@
 # OCR Application Textscannr
 
-This project showcases a simple photo gallery containing 9 images.
 
 ## Gallery
 
-### Photo 1
-![Photo 1](photo1.jpg)
+### Image 1
+![Image 1](image1.jpeg)
 
-### Photo 2
-![Photo 2](photo2.jpg)
+### Image 2
+![Image 2](image2.jpeg)
 
-### Photo 3
-![Photo 3](photo3.jpg)
+### Image 3
+![Image 3](image3.jpeg)
 
-### Photo 4
-![Photo 4](photo4.jpg)
+### Image 4
+![Image 4](image4.jpeg)
 
-### Photo 5
-![Photo 5](photo5.jpg)
+### Image 5
+![Image 5](image5.jpeg)
 
-### Photo 6
-![Photo 6](photo6.jpg)
+### Image 6
+![Image 6](image6.jpeg)
 
-### Photo 7
-![Photo 7](photo7.jpg)
+### Image 7
+![Image 7](image7.jpeg)
 
-### Photo 8
-![Photo 8](photo8.jpg)
+### Image 8
+![Image 8](image8.jpeg)
 
-### Photo 9
-![Photo 9](photo9.jpg)
+### Image 9
+![Image 9](image9.jpeg)
 
 ---
-
-## How to View
-
-Make sure your project directory has an `images/` folder with the 9 image files named as shown above. Then open this README in a markdown viewer or preview on GitHub.
-
